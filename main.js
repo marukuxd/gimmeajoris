@@ -1,6 +1,7 @@
 const pre = ["jo", "bo", "ro", "zo", "to",];
 var suf = ["tis", "bis", "jis", "dis", "tis", "techtv"];
 const lol = document.getElementById("anal");
+var db = new PouchDB('presuf');
 
 
 
